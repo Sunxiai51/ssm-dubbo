@@ -1,4 +1,4 @@
-package com.template.ssm.providerTest;
+package com.sunveee.template.providerTest;
 
 import java.io.IOException;
 

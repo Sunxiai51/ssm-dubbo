@@ -1,4 +1,4 @@
-package com.template.ssm.serviceImplTest;
+package com.sunveee.template.serviceImplTest;
 
 import javax.annotation.Resource;
 
