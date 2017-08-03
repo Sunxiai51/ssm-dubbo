@@ -12,7 +12,7 @@
 包含公共接口。
 
 ## ssm-dubbo-provider
-包含service层与dao层，是公共接口的具体实现__(spring、myBatis)__。
+包含service层与dao层，是公共接口的具体实现(spring、myBatis)。
 
 ## ssm-dubbo-consumer
-包含controller与视图，通过调用公共接口以获取服务__(spring、springMVC)__。
+包含controller与视图，通过调用公共接口以获取服务(spring、springMVC)。
